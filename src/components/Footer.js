@@ -78,8 +78,8 @@ const Footer = () => {
           products and services!
         </p>
         <form
-          action="#hero"
-          method="post"
+          // action=""
+          // method="post"
           className="php-email-form"
         >
           <div className="newsletter-form">
@@ -105,7 +105,7 @@ const Footer = () => {
       <span>All Rights Reserved</span>
     </p>
     <div className="credits">
-      Designed by <a href="https://bootstrapmade.com/">House Of Code</a>
+      Designed by <a href="#">House Of Code</a>
     </div>
   </div>
 </div>
