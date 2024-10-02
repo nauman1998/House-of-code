@@ -78,7 +78,7 @@ const Footer = () => {
           products and services!
         </p>
         <form
-          action="#"
+          action="#hero"
           method="post"
           className="php-email-form"
         >
