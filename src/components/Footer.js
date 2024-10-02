@@ -84,7 +84,7 @@ const Footer = () => {
         >
           <div className="newsletter-form">
             <input type="email" name="email" />
-            <input type="submit" value="Subscribe" />
+            <input type="" value="Subscribe" />
           </div>
           <div className="loading">Loading</div>
           <div className="error-message"></div>
