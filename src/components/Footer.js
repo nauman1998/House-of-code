@@ -78,7 +78,7 @@ const Footer = () => {
           products and services!
         </p>
         <form
-          action="forms/newsletter.php"
+          action="#"
           method="post"
           className="php-email-form"
         >
